@@ -11,7 +11,7 @@ The diagram summarizes four forms of stigma discussed in the social stigma frame
 
 ## Figure
 
-`output/how_stigma_travels.png`
+![How Stigma Travels](output/how_stigma_travels.png)
 
 The illustration is generated entirely in Python with Matplotlib.
 
